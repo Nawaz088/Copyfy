@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Copyfy
 
 Develop an elegant React.js Music Application. 
 
